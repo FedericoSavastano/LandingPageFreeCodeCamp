@@ -25,7 +25,7 @@ header {
 nav {
   display: flex !important;
   justify-content: space-between;
-  padding: 0 10px 0 10px;
+  padding: 0 10px 0 50px;
   background-color: rgb(209, 184, 233);
 }
 nav a {
